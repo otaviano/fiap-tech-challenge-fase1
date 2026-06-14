@@ -13,8 +13,8 @@
 
 | Recurso | URL |
 |---------|-----|
-| Repositório GitHub | https://github.com/otaviano/fiap-pos-ia |
-| Notebook principal | https://github.com/otaviano/fiap-pos-ia/blob/main/breast_cancer_ml.ipynb |
+| Repositório GitHub | https://github.com/otaviano/fiap-tech-challenge-fase1 |
+| Notebook principal | https://github.com/otaviano/fiap-tech-challenge-fase1/blob/main/breast_cancer_ml.ipynb |
 | Dataset (UCI / sklearn) | https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29 |
 | Dataset (Kaggle) | https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data |
 
