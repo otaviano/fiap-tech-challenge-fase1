@@ -3,8 +3,8 @@
 
 **Programa:** FIAP Postech — IA para Devs  
 **Fase:** 1 — Machine Learning aplicado à Saúde  
-**Aluno:** Otaviano Montes Zibetti  
-**Email:** otavianomontes@gmail.com  
+**Aluno:** Otaviano Montes Zibetti | Felipe Squarizi
+**Email:** otavianomontes@gmail.com | fesqua@yahoo.com.br 
 **Data:** Junho de 2026
 
 ---
