@@ -370,8 +370,8 @@ O uso de IA em diagnóstico médico exige:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/otaviano/fiap-pos-ia.git
-cd fiap-pos-ia
+git clone https://github.com/otaviano/fiap-tech-challenge-fase1.git
+cd fiap-tech-challenge-fase1
 
 # Criar ambiente virtual
 python -m venv .venv
