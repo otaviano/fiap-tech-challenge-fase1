@@ -31,7 +31,6 @@
 7. [Explicabilidade com SHAP](#7-explicabilidade-com-shap)
 8. [Discussão Crítica](#8-discussão-crítica)
 9. [Instruções de Execução](#9-instruções-de-execução)
-10. [Roteiro do Vídeo](#10-roteiro-do-vídeo)
 
 ---
 
@@ -106,8 +105,8 @@ As features de raio, perímetro e área apresentam grande variação de escala (
 
 As features mais correlacionadas com o target (correlação absoluta) foram:
 
-| Rank | Feature | |Correlação com target| |
-|------|---------|----------------------|
+| Rank | Feature | Correlação absoluta com target |
+|------|---------|--------------------------------|
 | 1 | worst concave points | 0,794 |
 | 2 | worst perimeter | 0,783 |
 | 3 | mean concave points | 0,777 |
@@ -277,8 +276,8 @@ SHAP quantifica a contribuição marginal de cada feature para cada predição i
 
 ### 7.1 Importância Global das Features (Top 10)
 
-| Rank | Feature | Mean |SHAP| |
-|------|---------|------|
+| Rank | Feature | Importância média (mean abs SHAP) |
+|------|---------|-----------------------------------|
 | 1 | worst area | 0,312 |
 | 2 | worst concave points | 0,298 |
 | 3 | worst radius | 0,241 |
